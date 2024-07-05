@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 20PX;
+}
+table,th,tr,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.center{
+    text-align: center;
+}
+table{
+    margin-left: 570px;
+    margin-top: 100px;
+}
